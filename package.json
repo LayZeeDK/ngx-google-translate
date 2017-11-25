@@ -1,6 +1,6 @@
 {
   "name": "ngx-google-translate",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "[WIP] Text translation service for Angular powered by Google Translate.",
   "author": {
     "name": "Lars Gyrup Brink Nielsen",

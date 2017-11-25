@@ -2,7 +2,7 @@
 
 Text translation service for Angular powered by Google Translate.
 
-# Installation`
+# Installation
 
 Install using NPM CLI
 ```
